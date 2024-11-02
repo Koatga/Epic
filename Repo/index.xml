@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Test Mechanicus" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Epic.gstz" dataType="gamesystem" dataId="8f10-ee06-8dc1-beb6" dataName="Epic Armageddon" dataBattleScribeVersion="2.03" dataRevision="40"/>
+    <dataIndexEntry filePath="Horus Heresy - Mechanicum Taghmata - EA.catz" dataType="catalogue" dataId="b622-5631-5794-2a7a" dataName="Horus Heresy: Mechanicum Taghmata" dataBattleScribeVersion="2.03" dataRevision="36"/>
+  </dataIndexEntries>
+</dataIndex>
